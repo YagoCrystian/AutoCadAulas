@@ -1,0 +1,21 @@
+configs de cursor:
+- botao direito
+	- options
+		display:
+		drafting:
+		selection:
+
+ferramentas:
+
+- copy
+	CO
+	select object
+	enter
+	
+- rotate
+	ro
+- move
+	m
+- circle
+	c
+	
